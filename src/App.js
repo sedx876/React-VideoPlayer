@@ -8,8 +8,8 @@ const videos = [
     video: 'https://vimeo.com/121657705'
   },
   {
-    service: 'facebook',
-    video: 'https://www.facebook.com/LillysCry/videos/2063699613901421/?t=0'
+    service: 'youtube',
+    video: 'https://www.youtube.com/watch?v=ktt09ZGDjac'
   },
   {
     service: 'youtube',
